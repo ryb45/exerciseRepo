@@ -1,0 +1,1 @@
+Our program takes the user's name and age, and returns a string depending on the input. The string output is either "You're are not and adult, [name]" or "You're an adult, [name]".
