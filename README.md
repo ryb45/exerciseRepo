@@ -34,8 +34,4 @@ We chose the academic free license because it is not too strict, and it supports
 
 ## Silly Gif
 
-<<<<<<< HEAD
 ![silly](https://media4.giphy.com/media/2SaZRQwxd5DVe/giphy.gif?cid=ecf05e47xh1s47rc44bjrau9pqxpfj7trn7bzl6wfpetktn3&rid=giphy.gif&ct=g "bug")
-=======
-![silly](https://media4.giphy.com/media/2SaZRQwxd5DVe/giphy.gif?cid=ecf05e47xh1s47rc44bjrau9pqxpfj7trn7bzl6wfpetktn3&rid=giphy.gif&ct=g "bug")
->>>>>>> 3a9b3a1f4a35796357373a58167cf83785f55841
