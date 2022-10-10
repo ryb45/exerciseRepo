@@ -23,6 +23,7 @@ If you are interested in contributing to this project, you can fork this reposit
 ``
 if age >= 18:
     print("You're an adult",name)
+    
 else:
     print("You're not an adult",name)
 ``
