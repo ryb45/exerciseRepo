@@ -20,10 +20,10 @@ Clone the repository to your local jupyterHub server using:
 If you are interested in contributing to this project, you can fork this repository by clicking the "Fork" button on the top right of github. Our program is designed to work in JupyterHub, so you will need to create a JupyterHub account in order to run, test, and make changes to the code. There is no structure when adding new features or fixing bugs, except please add a ``MD`` or ``TXT`` file containing the additions or fixes. Make sure to also refrence the code of conduct.
 
 ## Code Snippet
+
 ``
 if age >= 18:
-    print("You're an adult",name)
-    
+    print("You're an adult",name) 
 else:
     print("You're not an adult",name)
 ``
